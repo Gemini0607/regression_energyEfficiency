@@ -1,9 +1,0 @@
-Cannot be used for MULTI-CLASS CLASSIFICATION
-
-1. Gradient Boosting Regressor
-2. AdaBoost Regressor
-3. Bagging Regressor
-4. Huber Regressor
-5. Passive Aggressive Regressor
-6. SGD Regressor
-7. SVM
